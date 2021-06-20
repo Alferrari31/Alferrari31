@@ -1,11 +1,15 @@
-### Hi there 👋 , I am Anne-Laure Ferrari !
-A web developer React & Node.js !
+### Hi there 👋 , I am Anne-Laure Ferrari ! A web developer React & Node.js 
+
+____________________________________________________________________________________________________________________________________
+
 
 
 - 👩🏻‍💻 I'm currently studying at wild code school, learning React & Node.js
 - 🪄 I worked on different projects that I let you discover ...
 - 🔜 I am looking for an internship between 4 to 6 months in a company from September 2021 !
 - 📧 How to reach me: alferrari31@gmail.com
+
+____________________________________________________________________________________________________________________________________
 
 
 🧰 Toolbox
@@ -16,6 +20,7 @@ A web developer React & Node.js !
 
 
 
+____________________________________________________________________________________________________________________________________
 
 
 <!--
