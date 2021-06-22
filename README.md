@@ -1,4 +1,5 @@
-### Hi there 👋 , I am Anne-Laure Ferrari ! A web developer React & Node.js 
+### Hi there ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
+, I am Anne-Laure Ferrari ! A web developer React & Node.js 
 
 ____________________________________________________________________________________________________________________________________
 
