@@ -4,8 +4,8 @@ ________________________________________________________________________________
 
 
 
-- 👩🏻‍💻 I'm currently studying at wild code school, learning React & Node.js
-- 🪄 I worked on different projects that I let you discover ...
+- 👩🏻‍💻 I'm currently studying at Wild Code School Paris, learning React & Node.js
+- 🪄 I worked on differents projects that I let you discover ...
 - 🔜 I am looking for an internship between 4 to 6 months in a company from September 2021 !
 - 📧 How to reach me: alferrari31@gmail.com
 
