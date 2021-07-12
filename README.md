@@ -1,4 +1,7 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Anne-Laure Ferrari ! A web developer React & Node.js 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Anne-Laure Ferrari ! A web developer React & Node.js 🚀
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="200" />
+</div>  
 
 ____________________________________________________________________________________________________________________________________
 
