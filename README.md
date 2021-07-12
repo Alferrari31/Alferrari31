@@ -1,16 +1,29 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Anne-Laure Ferrari ! A web developer React & Node.js 🚀
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="200" />
+<div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="200" />
 </div>  
+
+<br/>
+
+<div align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Anne-Laure Ferrari ! A web developer React & Node.js 🚀 
+  </div>
+  
+
+
+
 
 ____________________________________________________________________________________________________________________________________
 
 
 
 - 👩🏻‍💻 I'm currently studying at Wild Code School Paris, learning React & Node.js
+
 - 🪄 I worked on differents projects that I let you discover ...
+
 - 🔜 I am looking for an internship between 4 to 6 months in a company from September 2021 !
-- 📧 How to reach me: alferrari31@gmail.com
+
+- 📧 How to reach me: alferrari31@gmail.com / 
+<a href="https://www.linkedin.com/in/anne-laure-ferrari-480676209/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 
 ____________________________________________________________________________________________________________________________________
 
@@ -23,7 +36,6 @@ ________________________________________________________________________________
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50" height:"50"/>  
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQLlogo" width="50" height:"50"/>
-
 
 
 <!--
